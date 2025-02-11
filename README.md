@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ArturMaia/Ecommerce/blob/main/E-commerce.jpg" alt="loja geek" style="width: 150px; border-radius: 10px;">
+  <img src="https://github.com/ArturMaia/Ecommerce/blob/main/E-commerce.jpg" alt="loja geek" style="width: 200px; border-radius: 10px;">
 </p>
 
 
